@@ -21,7 +21,7 @@ public class PayMoney {
                 }
             }
             if (targetAchieved == false){
-                System.out.println("Unable to achieve target ");
+                System.out.println("Given target is not achieved");
             }
         }
     }
